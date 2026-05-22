@@ -5,12 +5,12 @@ Its goal is to enable the inspection of **Digital Product Passports (DPP)** and 
 
 ## Supported bSDD
 
-The viewer supports selected parts of the **Construct-X**-related dictionary for IFC licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/).
-
+The viewer supports selected parts of the **Construct-X**-related dictionary for IFC.  
 Its recommended to use a URL as DPP content in order to link a Digital Product Passport.
 
 For more details see:  
-https://search.bsdd.buildingsmart.org/uri/buildingsmart-de/ConX/0.1
+https://search.bsdd.buildingsmart.org/uri/buildingsmart-de/ConX/0.1  
+*The bSDD is licensed under [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)*
 
 ## Quickstart
 
