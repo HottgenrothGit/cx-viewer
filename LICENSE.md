@@ -1,4 +1,4 @@
-Copyright (c) 2020-2022 IFC.js
+Copyright (c) 2020-2022 IFC.js  
 Copyright (c) 2026 Hottgenroth Software AG
 
 Permission is hereby granted, free of charge, to any person obtaining
