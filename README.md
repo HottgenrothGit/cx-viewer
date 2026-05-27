@@ -27,7 +27,7 @@ Fast way to use the viewer:
 5. Start the web app in default Browser
     > `npm run start-open`
 6. Click on the **Load** button to select an IFC file
-7. Double-click a 3D object to select it. An info box will display available DPP and CO₂ data.
+7. Double-click a 3D object to select it → an info box will show available DPP and CO₂ data
 
 ---
 ### License
