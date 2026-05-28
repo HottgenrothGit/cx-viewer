@@ -1,7 +1,7 @@
 # CX-Viewer
 A 3D **web viewer for IFC** files, developed as part of the **Construct-X** project.
 
-Its goal is to enable the inspection of **Digital Product Passports (DPP)** and **CO2** equivalents for construction/building related products if the data is embedded and linked to an object within the IFC file.
+Its goal is to enable the inspection of **Digital Product Passports (DPP)** and **CO₂** equivalents for construction/building related products if the data is embedded and linked to an object within the IFC file.
 
 ## Supported bSDD
 
@@ -21,13 +21,13 @@ Fast way to use the viewer:
 2. Install yarn globally (if necessary)
     > `npm i -g yarn`
 3. Navigate in terminal to the project folder and execute
-    > `npm run init repo`
+    > `npm run init-repo`
 4. Run Build  
     > `npm run build`
 5. Start the web app in default Browser
     > `npm run start-open`
-6. Click on the **Load** button to select an IFC file
-7. Double-click a 3D object to select it → an info box will show available DPP and CO₂ data
+6. Click on the **Load** button and select an IFC file
+7. Double-click a 3D object to select it → an info box will show available DPP data
 
 ---
 ### License
